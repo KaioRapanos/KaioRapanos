@@ -26,4 +26,4 @@ Here are some ideas to get you started:
           
 ##
           
-![Snake animation](https://github.com/KaioRapanos/KaioRapanos/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/KaioRapanos/KaioRapanos/blob/output/github-contribution-grid-snake.svg) -->
