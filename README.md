@@ -10,11 +10,10 @@
 <div>
     <h2>Conecte-se comigo</h2>
  <img align="left" alt="Kaio-LinkedIn" heigth="75" width="105" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC"/>
-   https://www.linkedin.com/in/kaio-rapanos-ab553416b/ <br/><br/>
+   <h2>https://www.linkedin.com/in/kaio-rapanos-ab553416b/<br/><br/>
  
  <img align="left" alt="Kaio-DIO" heigth="30" width="105" src="https://ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000051657/57a99613-e158-472a-8037-77895ee89923.png"/>
-</div>
-https://www.dio.me/users/kaiorapanos
+https://www.dio.me/users/kaiorapanos</h2>
 <br/>
 <br/>
 <br>
