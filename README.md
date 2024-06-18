@@ -4,7 +4,7 @@
     <h1>Bem vindo ao meu Perfil.</h2>
     <p> Sou um estudante de Análise e Desenvolvimento de Sistemas na UNICESUMAR, com formação em Engenharia de Produção pela UNISOCIESC, obtida em 2022. 
         Além disso, acumulo uma sólida experiência profissional como vendedor da empresa Ferramentas Gerais desde janeiro de 2019.</p> 
-    <p> Além disso, possuo conhecimento básico em linguagens de programação, como Java, JavaScript e C#, bem como em bancos de dados MongoDB e SQL, complementado pela familiaridade com metodologias ágeis a qual vem de encontro com minha etapa na formação de Analise e desenvolvimento de sistemas. 
+    <p> Além disso, possuo conhecimento em linguagens de programação, como Java, JavaScript e C#, bem como em bancos de dados MongoDB e SQL, complementado pela familiaridade com metodologias ágeis a qual vem de encontro com minha etapa na formação de Analise e desenvolvimento de sistemas. 
         Minha formação acadêmica e minha experiência profissional me equiparam com uma base sólida para abordar desafios complexos e me permitem contribuir de maneira significativa para um caminho para o sucesso . Estou ansioso para aplicar meus conhecimentos e continuar a crescer tanto profissional quanto pessoalmente.
     </p>
     <p>Como vendedor, eu não apenas mantive e desenvolvi relacionamentos B2B com nossos clientes, mas também estive fortemente envolvido na resolução de problemas complexos, oferecendo soluções personalizadas e eficazes. Minhas atividades também abrangiam a prospecção de novos negócios, onde identificava oportunidades de crescimento e desenvolvia estratégias de expansão para a empresa. 
